@@ -1,2 +1,2 @@
 # text
-this code is test only
+this code is for the test 
